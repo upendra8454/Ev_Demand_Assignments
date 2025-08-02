@@ -30,8 +30,8 @@ We employed a *Random Forest Regressor* to learn from historical EV data. By ext
 🧾 Dataset
 📅 Date Range: January 2017 – February 2024
 🏙 Geographic Scope: County-level registration data
-🔌 Features: Battery Electric Vehicles (BEVs), Plug-in Hybrid EVs (PHEVs), Non-EVs, Total Vehicles, Percent EVs
-Database Source :- **[Click here to view Dataset](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024)**
+🔌 Features: Battery Electric Vehicles (BEVs), Plug-in Hybrid EVs (PHEVs), Non-EVs, Total Vehicles, Percent EVs.
+  Database Source :- **[Click here to view Dataset](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024)**
 
 ## 📊 Results
 
