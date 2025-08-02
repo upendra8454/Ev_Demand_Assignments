@@ -27,6 +27,12 @@ We employed a *Random Forest Regressor* to learn from historical EV data. By ext
 - *Scikit-learn* – For model building (Random Forest) and hyperparameter tuning.
 - *Google Colab / Jupyter Notebook* – For writing, testing, and visualizing the code.
 
+🧾 Dataset
+📅 Date Range: January 2017 – February 2024
+🏙 Geographic Scope: County-level registration data
+🔌 Features: Battery Electric Vehicles (BEVs), Plug-in Hybrid EVs (PHEVs), Non-EVs, Total Vehicles, Percent EVs
+Database Source :- **[Click here to view Dataset](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024)**
+
 ## 📊 Results
 
 - Achieved accurate EV adoption predictions on unseen future months.
